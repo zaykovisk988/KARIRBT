@@ -27,13 +27,13 @@ while True:
 
         entrada = f'''💰 Entrada Confirmada 💰
 
-🐰<a href="https://reidogreen.bet/cadastro?afiliado=1626">Fortune Rabitt</a>
+🐰<a href="https://chillibet.io/?r=izwwidwi">Fortune Rabitt</a>
 🕑 <b>Válido até:</b> {expiration_time_str} 
 👉 <b>{nu1}x Normal</b>
 ⚡️ <b>{nu2}x Turbo</b>
 🚥 <b>Intercalando</b>
 
-🔗<a href="https://reidogreen.bet/cadastro?afiliado=1626"><b>Cadastre-se Aqui!!</b></a>
+🔗<a href="https://chillibet.io/?r=izwwidwi"><b>Cadastre-se Aqui!!</b></a>
 
                 '''
         finalizada = f'''🔷🔹 <b>Entrada Finalizada</b> 🔹🔷
